@@ -1,0 +1,8 @@
+﻿  main.cpp
+C:\Users\J Lamont\source\repos\advanced programming ass 2 q1 ver 2\linklistFunctions.h(63,16): warning C4099: 'node': type name first seen using 'class' now seen using 'struct'
+C:\Users\J Lamont\source\repos\advanced programming ass 2 q1 ver 2\linklist.h(3): message : see declaration of 'node'
+C:\Users\J Lamont\source\repos\advanced programming ass 2 q1 ver 2\linklistFunctions.h(151,16): warning C4099: 'node': type name first seen using 'class' now seen using 'struct'
+C:\Users\J Lamont\source\repos\advanced programming ass 2 q1 ver 2\linklist.h(3): message : see declaration of 'node'
+C:\Users\J Lamont\source\repos\advanced programming ass 2 q1 ver 2\linklistFunctions.h(175,16): warning C4099: 'node': type name first seen using 'class' now seen using 'struct'
+C:\Users\J Lamont\source\repos\advanced programming ass 2 q1 ver 2\linklist.h(3): message : see declaration of 'node'
+  advanced programming ass 2 q1 ver 2.vcxproj -> C:\Users\J Lamont\source\repos\advanced programming ass 2 q1 ver 2\Debug\advanced programming ass 2 q1 ver 2.exe
