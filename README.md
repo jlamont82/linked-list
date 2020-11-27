@@ -10,7 +10,7 @@ example inserting 8 in the list above will give the list 3, 6, 7, 8, 10.
 FarmField Desktop App which allows users to download and submit government forms and preform budgeting calculations.
 
 # How to build Files from the source code
-- Install Visual Studio 2019 & UWP Development Kit.
+- Install Visual Studio 2019.
 - Clone the source and open the Files.sln in VS.
 - VS installs all missing dependencies for you.
 - Launch the package project
